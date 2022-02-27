@@ -1,4 +1,4 @@
-# MessageSender
+# Message Sender
 ## Aim:
 The aim of the simple Web App is to send message to a particular mobile number using NnodeJS and Fast-to-sms (NodeJS Library)
 
